@@ -5,6 +5,10 @@ import Navbar from "./components/Navbar";
 import HomePage from "./pages/Homepage";
 import { useColorModeValue } from "@chakra-ui/react";
 
+prompt(`¿Cual es tu nombre?`);
+Prompt(`¿Cual es tu Villa?`);
+
+
 function App() {
   return (
     <>
